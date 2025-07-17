@@ -14,5 +14,6 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         Debug.Log("demo github");
+        float b = 5;
     }
 }
